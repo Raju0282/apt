@@ -1629,8 +1629,7 @@ Word Games and Puzzles:** Synonyms are often featured in word games and puzzles,
 40. **Continual Language Evolution:** Synonyms contribute to the continual evolution of language, showcasing its adaptability and richness.
 
 Synonyms play a crucial role in language diversity, allowing for nuanced expression, creative communication, and an ever-expanding vocabulary."""];
-List tenses=["""Certainly! Here are 40 lines providing information on tenses:
-
+List tenses=["""
 1. **Definition of Tenses:** Tenses are grammatical structures that indicate the time of an action or state of being.
 
 2. **Three Primary Tenses:** English has three primary tenses: past, present, and future.
