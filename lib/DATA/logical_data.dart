@@ -1591,4 +1591,3 @@ List syllogisms=["""Syllogism is a form of reasoning in which a conclusion is dr
 40. **Applications**: Syllogistic reasoning is applied in various fields, including philosophy, mathematics, linguistics, and computer science.
 
 Practicing syllogism problems can enhance your logical reasoning skills, making them useful in various contexts such as competitive exams and problem-solving scenarios."""];
-List s=[""""""];
